@@ -20,7 +20,7 @@
         <!-- Only show jetstream auth in Tenant -->
         @if(Spatie\Multitenancy\Models\Tenant::current())
             @if(Spatie\Multitenancy\Models\Tenant::current()->id==1)
-                <img src="/images/vue.png" style="width:8rem; height: auto;">
+                <img src="/images/vue.png" style="width:4rem; height: auto;">
             @elseif(Spatie\Multitenancy\Models\Tenant::current()->id==2)
                 <img src="/images/javascript.png" style="width:8rem; height: auto;">
             @else
