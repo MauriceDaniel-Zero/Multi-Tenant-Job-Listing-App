@@ -26,6 +26,7 @@
 <p>Copy the exact <strong>id,name,domain,database</strong></p>
 <p>You can put random information in the <strong>description</strong></p>
 <div><img src="/images/mtdb.jpg" style="width:8rem; height: auto;"></div>
+![Screenshot](./public/images/mtdb.jpg)
 
 <h3>Step6</h3>
 <p>Tenant migration: Use Command below</p>
