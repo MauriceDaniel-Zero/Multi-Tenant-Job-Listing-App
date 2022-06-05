@@ -35,6 +35,7 @@
 <p>Run command below</p>
 <i>php artisan serve</i>
 <br>
+<h5>Go to browser</h5>
 <i>localhost:8000</i>
 <br>
 <i>vue.localhost:8000</i>
