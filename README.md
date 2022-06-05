@@ -25,7 +25,7 @@
 <p>Create Tenant in MTlandlord database</p>
 <p>Copy the exact <strong>id,name,domain,database</strong></p>
 <p>You can put random information in the <strong>description</strong></p>
-<div><img src="/images/mtdb.jpg"></div>
+<div><img src="/images/mtdb.jpg" style="width:8rem; height: auto;"></div>
 
 <h3>Step6</h3>
 <p>Tenant migration: Use Command below</p>
