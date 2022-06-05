@@ -36,8 +36,11 @@
 <i>php artisan serve</i>
 <br>
 <i>localhost:8000</i>
+<br>
 <i>vue.localhost:8000</i>
+<br>
 <i>javascript.localhost:8000</i>
+<br>
 <i>php.localhost:8000</i>
 
 <h3>Step8</h3>
